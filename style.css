@@ -19,13 +19,13 @@ TD.leftcol {
   background-image: url(images/1.png)
 }
 h1{
-  color: #ffee00;  - цвет заголовка
-  font: 40px Georgia;  - шрифт
-  margin-left: 300px;  - отступ слева
+  color: #ffee00;
+  font: 40px Georgia;
+  margin-left: 300px;
 }
 h3{
-  width: 200px;  - ширина
-  color: #ffee00;  - цвет
-  font-style: italic;  - курсив
-  margin: 70px 0 0 30px;  - расположение
+  width: 200px;
+  color: #ffee00;
+  font-style: italic;
+  margin: 70px 0 0 30px;
 }
