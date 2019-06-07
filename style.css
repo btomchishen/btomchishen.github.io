@@ -1,0 +1,10 @@
+.header {
+	color: black;
+	font-size: 25,5px;
+	font-weight: bold;
+	background-color: lightblue;
+}
+TD.leftcol {
+	width: 110px;
+	vertical-align: top;
+}
