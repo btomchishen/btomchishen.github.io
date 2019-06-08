@@ -1,3 +1,7 @@
+* {
+	padding: 0;
+	margin: 0;
+   }
 TD.leftcol {
 	width: 110px;
 	vertical-align: top;
@@ -22,12 +26,9 @@ h3{
   font-style: italic;
   margin: 70px 0 0 30px;
 }
-.head {
-	font-size: 20px;
-}
 .container {
   width: 100%;
-  max-width: 1870px;
+  max-width: 100%;
   padding: 0 15px;
   margin: 0 auto;
   background-color: blue;
@@ -43,7 +44,7 @@ nav {
   float: right;
 }
 nav ul {
-	font-size: 30px;
+	font-size: 38px;
   margin: 0;
   padding: 0;
   list-style: none;
