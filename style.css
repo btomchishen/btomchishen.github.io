@@ -2,13 +2,7 @@
 	padding: 0;
 	margin: 0;
    }
-TD.leftcol {
-	width: 110px;
-	vertical-align: top;
-}
-.text-td {
-	font-size: 25px;
-}
+/*
 .menu{
  list-style: none;
  position: absolute;
@@ -25,7 +19,7 @@ h3{
   color: #ffee00;
   font-style: italic;
   margin: 70px 0 0 30px;
-}
+}*/
 .container {
   width: 100%;
   max-width: 100%;
@@ -33,7 +27,7 @@ h3{
   margin: 0 auto;
   background-color: blue;
 }
-.logo {
+/*.logo {
   float: left;
 }
 nav a {
