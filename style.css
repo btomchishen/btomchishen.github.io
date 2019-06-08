@@ -46,6 +46,9 @@ nav {
 	display: none;
 }
 @media screen and (max-width: 768){
+	body{
+		max-width: 100%;
+	}
 	.topnav a:not(:first-child) {
 		display: none;
 	}
