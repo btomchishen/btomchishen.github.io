@@ -25,11 +25,11 @@ body {
 }
 nav {
 	margin: auto;
-	width: 800px;
+	width: 400px;
 	height: 100px;
 }
 .topnav {
-	background-color: #fff;
+	background-color: white;
 	font-size: 14px;
 	margin-top: 40px;
 }
@@ -62,7 +62,7 @@ nav {
 	.topnav.responsive {
 		position: relative;
 	}
-	.topnave.responsive a.icon {
+	.topnav.responsive a.icon {
 		position: absolute;
 		right: 0;
 		top: 0;
