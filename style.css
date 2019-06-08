@@ -30,7 +30,11 @@ ul#hr li {
 	padding: 3px;
 	font-size: 30px;
 }
-#content {
+#none {
 	padding: 50px;
+	color: lightgrey;
+}
+#content {
+	padding-left: 100px;
 }
 
