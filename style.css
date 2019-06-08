@@ -12,7 +12,7 @@ TD.leftcol {
  right: 100px;
 }
 #header{
-  width: 100%;
+  width: max-width;
   height: 200px;
   background-color: #25B33f; 
   margin-bottom: 10px;
