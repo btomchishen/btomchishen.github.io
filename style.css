@@ -8,7 +8,7 @@ TD.leftcol {
 .menu{
  list-style: none;
  position: absolute;
- top: 10px;
+ top: 45px;
  right: 100px;
 }
 #header{
@@ -28,4 +28,29 @@ h3{
   color: #ffee00;
   font-style: italic;
   margin: 70px 0 0 30px;
+}
+.head {
+	font-size: 20px;
+}
+.container {
+  width: 100%;
+  max-width: 1870px;
+  padding: 0 15px;
+  margin: 0 auto;
+  background-color: black;
+}
+.logo {
+  float: left;
+}
+nav {
+  float: right;
+}
+nav ul {
+	font-size: 25px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block; 
 }
